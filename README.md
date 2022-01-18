@@ -8,7 +8,8 @@
 
 ```
 	ImageNet Classification with Deep Convolutional Neural Networks - Alex Krizhevsky - 2022.01.14
-​	Going deeper with convolutions - Christian Szegedy - 2022.01.15
+	Going deeper with convolutions - Christian Szegedy - 2022.01.15
+	Very Deep Convolutional Networks for Large-Scale Image Recognition - Karen Simonyan - 2022.01.18
 ```
 
 
@@ -17,7 +18,6 @@
 
 ```
 	GradientBased Learning Applied to Document Recognition - Yann LeCun
-​	Very Deep Convolutional Networks for Large-Scale Image Recognition - Karen Simonyan
-​	Deep Residual Learning for Image Recognition - Kaiming He
+	Deep Residual Learning for Image Recognition - Kaiming He
 ```
 
