@@ -11,6 +11,7 @@
 	Going deeper with convolutions - Christian Szegedy - 2022.01.15
 	Very Deep Convolutional Networks for Large-Scale Image Recognition - Karen Simonyan - 2022.01.18
 	Deep Residual Learning for Image Recognition - Kaiming He - 2022.01.19
+	Generative Adversarial Networks - Ian J. Goodfellow - 2022.03.24
 ```
 
 
