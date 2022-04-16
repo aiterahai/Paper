@@ -3,6 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torchvision import transforms
 
+
 class AlexNet(nn.Module):
     def __init__(self, class_number):
         super(AlexNet, self).__init__()
@@ -39,7 +40,7 @@ class AlexNet(nn.Module):
         )
 
     def forward(self, x):
-        x = self.convlayer(x),
-        x = x.view(-1, 9216),
-        x = self.fclayer(x),
+        x = self.convlayer(x)
+        x = x.view(-1, 9216)
+        x = self.fclayer(x)
         return F.log_softmax(x, dim=1)
